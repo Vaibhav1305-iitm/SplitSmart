@@ -58,8 +58,8 @@ export default function Home() {
         {/* Header */}
         <div style={styles.header}>
           <div style={styles.brand}>
-            <div style={styles.logo}>S</div>
-            <div style={styles.title}>SplitSmart</div>
+            <div style={styles.logo}>M</div>
+            <div style={styles.title}>Money Matrix</div>
           </div>
           <div style={styles.groupPill}>My Group</div>
         </div>

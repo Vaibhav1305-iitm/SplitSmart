@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'पैसा SplitSmart',
+  title: 'Money Matrix SplitSmart',
   description: 'Split expenses with your group — the easy way.',
 };
 
